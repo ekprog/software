@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('main')
+@section('content')
     <main>
         <section>
             <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">

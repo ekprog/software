@@ -11,7 +11,7 @@
 <body>
 @include('layouts.header')
 
-@yield('main')
+@yield('content')
 
 @include('layouts.footer')
 
